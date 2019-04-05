@@ -1,0 +1,348 @@
+.red
+{
+    background-color:red;
+    height:250px;
+}
+.green
+{
+    background-color:green;
+    height:250px;
+}
+.yellow
+{
+    background-color:yellow;
+    height:100px;
+    opacity: 0.3;
+}
+.blue
+{
+    background-color:blue;
+    height:250px;
+}
+.margehaut
+{
+    margin-top: 200px;
+
+}
+.padGD
+{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.bg
+{
+    background-image: url("../img/BattleCat.png");
+    Width :100%;
+    height:100%;
+    /*background-attachment: fixed;*/
+
+    background-position:center ;
+    background-repeat: revert;
+}
+.hauteur1
+h1
+ {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+ }
+h6
+{
+    text-align: center;
+}
+p
+{
+    text-align: center;
+}
+.textbg
+{
+    margin-top: 420px;
+    margin-bottom: 20px;
+}
+.orange
+{
+    background-color:orangered;
+    height:auto;
+}
+.centfif
+{
+    height:150px;
+}
+.white
+{
+background-color:white;
+}
+.margin
+{
+    margin-bottom:100px;
+}
+.img-fluid
+{
+    width :496px;
+    height :496px;
+}
+.bmargin
+{
+    margin-bottom : 150px;
+}
+.tmargin
+{
+    margin-top: 50px;
+}
+hr{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 1000px;
+    border-width: 3px;
+    border-color: White;
+}
+.custom
+{
+    margin-bottom: 307px;
+}
+.y{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 100px;
+    border-width: 3px;
+    border-color: orange;
+}
+.Border
+{
+    border-bottom-color: grey;
+    border: solid;
+    border: 3px;
+}
+.nextTo
+{
+}
+.imgProf
+{
+    height:120px;
+    width:120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgMiniProf
+{
+    height:70px;
+    width:70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nope
+{
+    text-align: left;
+}
+.post
+{
+  bottom-margin: 200px;
+}
+.Event
+{
+    Width:160px;
+    height:120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centrer
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.marginGauche
+{
+    margin-right:900px;
+}
+.marginGauchePost
+{
+    margin-right:600px;
+    Width:100px;
+}
+.imgb
+{
+    width: 1920px;
+    height: 1080px;
+}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/NAT1.jpg");
+
+    /* L’hauteur du Parallax */
+    height: auto;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+html,body { margin:0; height:100%;}
+
+.parallax1 {
+    /* L’image du Parallax */
+    background-image: url("../img/BattleCatBackground.png");
+
+    /* L’hauteur du Parallax */
+    height: auto;
+    width: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/BattleCatBackground1.png");
+
+    /* L’hauteur du Parallax */
+    height:100%;
+    width: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0%;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    /* L’image du Parallax */
+    background-image: url("../img/NAT2.jpeg");
+
+    /* L’hauteur du Parallax */
+    height:auto;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0%;
+}
+.op
+{
+    background-color:grey;
+    height:100px;
+    opacity:0.7;
+}
+imgbruh
+{
+    width:200px;
+    height:150px;
+}
+.woah
+{
+    height: 300px;
+}
+.wowwy
+{
+    height: 100px;
+}
+.noMargin
+{
+    margin:0;
+}
+.topMargin
+{
+    margin-top:500px;
+}
+@media only screen and (max-width: 480px)
+{  .topMargin
+{
+    margin-top:0;
+}
+}
+button
+{
+    background-color: #e7e7e7; color: black;
+    border: none;
+    color: Black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    display: block;
+    margin : auto;
+}
+.torange
+{
+  color:darkorange;
+}
+.hr1
+ {
+     padding-bottom:30px;
+     padding-top:30px;
+     max-width: 320px;
+     border-width: 3px;
+     border-color: White;
+ }
+.hr2
+{
+    padding-bottom:30px;
+    padding-top:30px;
+    max-width: 390px;
+    border-width: 3px;
+    border-color: orangered;
+}
+h2
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+}
+.folio
+{
+    heigth:400px;
+    width:100%;
+
+}
+rder
+{
+    border: none;
+    border-spacing:0;
+}
+.c5
+{
+    heigth:900px;
+    width:500px;
+
+}
+.twhite
+{
+  color: white;
+}
+
+.orfooter
+{
+    background-color:orangered;
+    height:auto;
+}
+@media only screen and (max-width: 480px)
+{
+    .bg
+    {
+        background-image: url("../img/BCcellB.png");
+        height:100%;
+        /*background-attachment: fixed;*/
+
+        background-position:center ;
+        background-repeat: revert;
+    }
+}
+@media only screen and (max-width: 480px)
+{
+    .h12
+    {
+        color:white;
+    }
+}
+.nopad
+{
+padding-bottom: 0;
+    padding-top: 0;
+}
